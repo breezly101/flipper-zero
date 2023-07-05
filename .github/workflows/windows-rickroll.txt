@@ -1,0 +1,106 @@
+GUI r
+STRING powershell
+DELAY 1000
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+STRING (new-object -com wscript.shell).SendKeys([char]175)
+ENTER
+GUI r
+STRING chrome https://tinyurl.com/badusb1
+ENTER
