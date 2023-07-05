@@ -1,0 +1,9 @@
+GUI SPACE
+DELAY 200
+STRING terminal
+ENTER
+DELAY 200
+STRING sudo osascript -e "set Volume 100"
+ENTER
+GUI SPACE
+open -a Safari "https://www.tinyurl.com/badusb1"
